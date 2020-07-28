@@ -1,6 +1,7 @@
 # WC3 Map pack
 
 We selected the best wc3 maps and grouped them according to estimated play time.
+You can use git as it is easier to update the files or you can download maps directly from the green ``Code`` button.
 
 ## Initial download
  - Navigate to wc3 maps folder.
