@@ -3,6 +3,9 @@
 We selected the best wc3 maps and grouped them according to estimated play time.
 You can use git as it is easier to update the files or you can download maps directly from the green ``Code`` button.
 
+## Update script
+You can use ``update_maps.bat`` script to update map pack. You can also create a shortcut and run it from everywhere.
+
 ## Initial download
  - Navigate to wc3 maps folder.
  - ``Shift + Right Click`` on somewhere blank in the folder windows.
